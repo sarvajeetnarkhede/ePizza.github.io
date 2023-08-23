@@ -1,0 +1,17 @@
+C:\Users\MCM\Desktop\Pizza Project Dotnet\ePizzaHub\ePizzaHub.Services\bin\Release\net5.0\ePizzaHub.Services.deps.json
+C:\Users\MCM\Desktop\Pizza Project Dotnet\ePizzaHub\ePizzaHub.Services\bin\Release\net5.0\ePizzaHub.Services.dll
+C:\Users\MCM\Desktop\Pizza Project Dotnet\ePizzaHub\ePizzaHub.Services\bin\Release\net5.0\ref\ePizzaHub.Services.dll
+C:\Users\MCM\Desktop\Pizza Project Dotnet\ePizzaHub\ePizzaHub.Services\bin\Release\net5.0\ePizzaHub.Services.pdb
+C:\Users\MCM\Desktop\Pizza Project Dotnet\ePizzaHub\ePizzaHub.Services\bin\Release\net5.0\ePizzaHub.Entities.dll
+C:\Users\MCM\Desktop\Pizza Project Dotnet\ePizzaHub\ePizzaHub.Services\bin\Release\net5.0\ePizzaHub.Repositories.dll
+C:\Users\MCM\Desktop\Pizza Project Dotnet\ePizzaHub\ePizzaHub.Services\bin\Release\net5.0\ePizzaHub.Repositories.pdb
+C:\Users\MCM\Desktop\Pizza Project Dotnet\ePizzaHub\ePizzaHub.Services\bin\Release\net5.0\ePizzaHub.Entities.pdb
+C:\Users\MCM\Desktop\Pizza Project Dotnet\ePizzaHub\ePizzaHub.Services\obj\Release\net5.0\ePizzaHub.Services.csproj.AssemblyReference.cache
+C:\Users\MCM\Desktop\Pizza Project Dotnet\ePizzaHub\ePizzaHub.Services\obj\Release\net5.0\ePizzaHub.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCM\Desktop\Pizza Project Dotnet\ePizzaHub\ePizzaHub.Services\obj\Release\net5.0\ePizzaHub.Services.AssemblyInfoInputs.cache
+C:\Users\MCM\Desktop\Pizza Project Dotnet\ePizzaHub\ePizzaHub.Services\obj\Release\net5.0\ePizzaHub.Services.AssemblyInfo.cs
+C:\Users\MCM\Desktop\Pizza Project Dotnet\ePizzaHub\ePizzaHub.Services\obj\Release\net5.0\ePizzaHub.Services.csproj.CoreCompileInputs.cache
+C:\Users\MCM\Desktop\Pizza Project Dotnet\ePizzaHub\ePizzaHub.Services\obj\Release\net5.0\ePizzaHub.Services.csproj.CopyComplete
+C:\Users\MCM\Desktop\Pizza Project Dotnet\ePizzaHub\ePizzaHub.Services\obj\Release\net5.0\ePizzaHub.Services.dll
+C:\Users\MCM\Desktop\Pizza Project Dotnet\ePizzaHub\ePizzaHub.Services\obj\Release\net5.0\ref\ePizzaHub.Services.dll
+C:\Users\MCM\Desktop\Pizza Project Dotnet\ePizzaHub\ePizzaHub.Services\obj\Release\net5.0\ePizzaHub.Services.pdb
